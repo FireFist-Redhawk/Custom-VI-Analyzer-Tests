@@ -39,6 +39,10 @@
 				<Item Name="Label Text Style Config.vi" Type="VI" URL="../Label Text Style.llb/Label Text Style Config.vi"/>
 				<Item Name="Label Text Style.vi" Type="VI" URL="../Label Text Style.llb/Label Text Style.vi"/>
 			</Item>
+			<Item Name="Template Icon Layer" Type="Folder">
+				<Item Name="Template Icon Layer Config.vi" Type="VI" URL="../Template Icon Layer.llb/Template Icon Layer Config.vi"/>
+				<Item Name="Template Icon Layer.vi" Type="VI" URL="../Template Icon Layer.llb/Template Icon Layer.vi"/>
+			</Item>
 			<Item Name="Usage of -out- in Indicators" Type="Folder">
 				<Item Name="Usage of -out- in Indicators Config.vi" Type="VI" URL="../Usage of -out- in Indicators.llb/Usage of -out- in Indicators Config.vi"/>
 				<Item Name="Usage of -out- in Indicators.vi" Type="VI" URL="../Usage of -out- in Indicators.llb/Usage of -out- in Indicators.vi"/>
